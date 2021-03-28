@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale = 1, user-scale=1, user-scalable = no">
+  <title>JS Bin</title>
+</head>
+<body class>
+  <section id = "header">
+    <header class = "major" style>
+      <h1>
+        "Sunjung An"
+      </h1>
+      <p>my web page!</p>
+      <ul class = "icons">
+        <li>
+          <a href = "https://www.linkedin.com/in/alizelee" class = "icon brands alt fa-linkedin">
+            <span class = "label">Linkedin</span>
+          </a>
+ 
+        </li>
+        <li>
+          <a href = "httpls://github.com/sunjungAn" class = "icon brands alt fa-github">
+            <span class = "label">Github</span>
+            
+        </li>
+      </ul>
+    </header>
+    <div class = "container">
+      <ul class = "action special">
+        <li>
+          <a href ="#one" class = "button primary scrolly"> A bit more... </a>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <section id = "one" class = "main special">
+    <div class = "container">
+      <span class = "image fit primary">
+        <img src = "images/pic.jpg" alt>
+      </span>
+      <div class = "content">
+        <header class = "major">
+          <h2> 
+            "About ME"
+          </h2>
+        </header>
+        <span class = "image center">
+          <img src = "iu.jpg" alt = "Profile Pic Alize">
+        </span>
+        <p>
+          " Web project example front."
+          <br>
+          "Sangmyung Univ. 3rd grade computer science major"
+          <br>
+          <br>
+          "In this project , I will work in various industries"
+          <br>
+          <br>
+        </p>
+      </div>
+      <a href = "#four" class ="goto-next scrolly">Next</a>
+    </div>
+  </section>
+  </body>
+</html>
